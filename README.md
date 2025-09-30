@@ -1,6 +1,6 @@
 ## Quantitative Trade Analytics with Python 
 
-### 🔹 Tools & Technologies
+### 🛠 Tools & Technologies
 #### ➩ Languages & Platforms : Python, Jupyter Notebook
 #### Libraries : Pandas, NumPy, Matplotlib, Seaborn, Scipy  
 #### Data Source : 1140 raw trade records (Excel)
@@ -36,7 +36,7 @@ Illustrated risk-return trade-offs, tail risks, and profit consistency across sy
 * Tail risk / quantiles (5th & 95th percentile of Profit Per Lot) :  5% quantile = -p; 95% quantile = +q.
 * Duration stats (mean, median, longest) and USDINR symbols consumed most exposure time.
 
-### 🔹 Key Achievements
+### 👨🏼‍💻  Key Achievements
 ✅ Established a clean, analysis-ready dataset from raw trade logs.  
 ✅ Created Profit Per Lot and Duration features for fair comparison and risk tracking.  
 ✅ Identified time-of-day profitability patterns (2 PM & 4 PM).   
