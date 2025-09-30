@@ -1,4 +1,4 @@
-## TradeLens-Data-Analysis
+## Quantitative Trade Analytics with Python 
 
 ### 🔹 Tools & Technologies
 #### ➩ Languages & Platforms : Python, Jupyter Notebook
